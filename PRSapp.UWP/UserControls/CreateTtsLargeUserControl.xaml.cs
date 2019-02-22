@@ -72,7 +72,7 @@ namespace PRSapp.UWP.UserControls
 
         private async void StartRecognizing_Click(object sender, RoutedEventArgs e)
         {
-
+            //test change for commi
             // Create an instance of SpeechRecognizer.
             var speechRecognizer = new SpeechRecognizer();
 
